@@ -3,7 +3,7 @@
 
 <p align="center">
   ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/bcd136d7-882f-4feb-ada4-126cfee5e80c)
-  집 매물 안전 등급 산출 안드로이드 앱 
+  <br/>집 매물 안전 등급 산출 안드로이드 앱
 </p>
 
 <br/>
@@ -13,18 +13,18 @@
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/88b82dc8-a1eb-4bff-a911-53aac56111c5)
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/509e8031-2c91-4c37-9a4c-0c71cd84cdd3)
 
-
+<br/>
 <안전 등급 산출 신청 페이지>
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/6b183f02-df92-40f1-8557-140c98e3a9d7)
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/31f6f6e5-be1a-40b7-9a77-4c08da3e1620)
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/f7c7e4ac-d8f9-46ad-afab-c651c6a4b5f4)
-
+<br/>
 <안전 등급 결과 페이지>
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/7e97fd51-3751-4748-b179-fc5037649ec0)
 ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/27804e38-3e4b-49bd-96ba-fc20db84f990)
 
 
-
+<br/>
 
 <세부>
 
