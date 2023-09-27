@@ -4,7 +4,7 @@
 
 - 사용한 공공 데이터셋 : [assets/datasets/coordinate_based](assets/datasets/coordinate_based)
 - DB로부터 데이터 가져와 점수 산출: [dataloader/dataloader.py](dataloader/dataloader.py)
-- 좌표 데이터 정규화 및 오류 처리: [train/data_generator.py] (train/data_generator.py)
+- 좌표 데이터 정규화 및 오류 처리: [train/data_generator.py](train/data_generator.py)
 - 백엔드 API (회원가입, 설문조사, 안전등급 산출, 사용자의 등록된 주소 목록 등): [templates](templates)
 
 
