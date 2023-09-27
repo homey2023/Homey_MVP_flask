@@ -1,9 +1,12 @@
 <br/>
 <br/>
-
+<br/>집 매물 안전 등급 산출 안드로이드 앱
 <p align="center">
-  ![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/bcd136d7-882f-4feb-ada4-126cfee5e80c)
-  <br/>집 매물 안전 등급 산출 안드로이드 앱
+![image](https://github.com/MJLaboratory/HomeyMPV/assets/90082373/87c22168-5f08-4cbf-a065-172ceaf2b6d3)
+</p>
+<p align="center">
+<br/>집 매물 안전 등급 산출 안드로이드 앱
+  
 </p>
 
 <br/>
